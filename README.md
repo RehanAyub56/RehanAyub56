@@ -5,13 +5,13 @@ Email Me 👉 ✉️ **rehanayub975@gmail.com** For Collaboration/Project or Any
 
 I'm always open to collaborating on exciting projects, contributing to open-source, and discussing technology. Feel free to reach out!
 
-🔭 Currently working on: Machine Learning model training and AI projects
-🌱 Currently learning: Machine Learning, Deep Learning, Data Structures & Algorithms
-👯 Looking to collaborate on: AI/ML, Full-Stack Web Development, and Open-Source Projects
-🤝 Looking for guidance in: Building real-world AI/ML applications and scalable software systems
-💬 Ask me about: C++, Python, Machine Learning, Web Development, Competitive Programming, and Tech
-📫 Reach me at: rehanayub975@gmail.com
-⚡ Fun fact: I love solving challenging problems and turning ideas into real-world applications.
+🔭 **Currently working on:** Machine Learning model training and AI projects<br>
+🌱 **Currently learning:** Machine Learning, Deep Learning, Data Structures & Algorithms<br>
+👯 **Looking to collaborate on:** AI/ML, Full-Stack Web Development, and Open-Source Projects<br>
+🤝 **Looking for guidance in:** Building real-world AI/ML applications<br>
+💬 **Ask me about:** C++, Python, Machine Learning, Web Development<br>
+📫 **Reach me at:** rehanayub975@gmail.com<br>
+⚡ **Fun fact:** I love solving challenging problems and turning ideas into real-world applications.
 
 
 
