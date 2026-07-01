@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm Rehan Ayub
-**A passionate Software Engineer || AI/ML Engineer || Web developer || Competitive Programmer**
+# 💫 Hi 👋, I'm Rehan Ayub<br><br>
 
+**A passionate Software Engineer || AI/ML Engineer || Web developer || Competitive Programmer**
 Email Me 👉 ✉️ **rehanayub975@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 I'm always open to collaborating on exciting projects, contributing to open-source, and discussing technology. Feel free to reach out!
